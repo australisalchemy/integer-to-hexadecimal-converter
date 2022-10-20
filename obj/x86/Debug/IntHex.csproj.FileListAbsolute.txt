@@ -1,0 +1,8 @@
+W:\Files\Development\C#\Desktop Applications\IntHex\bin\Debug\IntHex.exe
+W:\Files\Development\C#\Desktop Applications\IntHex\bin\Debug\IntHex.pdb
+W:\Files\Development\C#\Desktop Applications\IntHex\obj\x86\Debug\IntHex.frmMain.resources
+W:\Files\Development\C#\Desktop Applications\IntHex\obj\x86\Debug\IntHex.Properties.Resources.resources
+W:\Files\Development\C#\Desktop Applications\IntHex\obj\x86\Debug\IntHex.csproj.GenerateResource.Cache
+W:\Files\Development\C#\Desktop Applications\IntHex\obj\x86\Debug\IntHex.exe
+W:\Files\Development\C#\Desktop Applications\IntHex\obj\x86\Debug\IntHex.pdb
+W:\Files\Development\C#\Desktop Applications\IntHex\obj\x86\Debug\IntHex.csprojResolveAssemblyReference.cache
